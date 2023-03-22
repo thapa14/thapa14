@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thapa14
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning front-end development
+- 👀 I’m Frontend developer
 - 💞️ 
 
 
